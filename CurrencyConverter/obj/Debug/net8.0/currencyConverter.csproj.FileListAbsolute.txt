@@ -1,0 +1,5 @@
+c:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\currencyConverter\obj\Debug\net8.0\currencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\currencyConverter\obj\Debug\net8.0\currencyConverter.AssemblyInfoInputs.cache
+c:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\currencyConverter\obj\Debug\net8.0\currencyConverter.AssemblyInfo.cs
+c:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\currencyConverter\obj\Debug\net8.0\currencyConverter.csproj.CoreCompileInputs.cache
+c:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\currencyConverter\obj\Debug\net8.0\currencyConverter.sourcelink.json

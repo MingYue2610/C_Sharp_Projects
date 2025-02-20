@@ -1,0 +1,15 @@
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\diceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\diceRoller.AssemblyInfoInputs.cache
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\diceRoller.AssemblyInfo.cs
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\diceRoller.csproj.CoreCompileInputs.cache
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\diceRoller.sourcelink.json
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\bin\Debug\net8.0\diceRoller.exe
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\bin\Debug\net8.0\diceRoller.deps.json
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\bin\Debug\net8.0\diceRoller.runtimeconfig.json
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\bin\Debug\net8.0\diceRoller.dll
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\bin\Debug\net8.0\diceRoller.pdb
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\diceRoller.dll
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\refint\diceRoller.dll
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\diceRoller.pdb
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\diceRoller.genruntimeconfig.cache
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\diceroller\obj\Debug\net8.0\ref\diceRoller.dll

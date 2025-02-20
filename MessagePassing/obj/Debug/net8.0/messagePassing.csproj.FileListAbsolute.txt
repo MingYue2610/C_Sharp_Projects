@@ -1,0 +1,15 @@
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\bin\Debug\net8.0\messagePassing.exe
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\bin\Debug\net8.0\messagePassing.deps.json
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\bin\Debug\net8.0\messagePassing.runtimeconfig.json
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\bin\Debug\net8.0\messagePassing.dll
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\bin\Debug\net8.0\messagePassing.pdb
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\messagePassing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\messagePassing.AssemblyInfoInputs.cache
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\messagePassing.AssemblyInfo.cs
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\messagePassing.csproj.CoreCompileInputs.cache
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\messagePassing.sourcelink.json
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\messagePassing.dll
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\refint\messagePassing.dll
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\messagePassing.pdb
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\messagePassing.genruntimeconfig.cache
+C:\Users\dimin\Growth Company Course\Level 3 JavaScript Course\Assignment work\messagePassing\obj\Debug\net8.0\ref\messagePassing.dll
